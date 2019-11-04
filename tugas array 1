@@ -4,7 +4,7 @@ int main()
 {
   int umur[5];
   int n, hasil=0;
-  for i;
+  int i;
   for (i=0; i<5; i++){
     cout <<"input Umur ke -"<< (i+1)<< " = ";
     cin >> umur[i];
